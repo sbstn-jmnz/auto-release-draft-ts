@@ -3,7 +3,7 @@ on:
   push:
     branches: 
       - master
-      - mail
+      - main
 jobs: 
   build:
     name: Build and Test
